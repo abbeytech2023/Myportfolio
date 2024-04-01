@@ -1,0 +1,86 @@
+@media (max-width: 1270px) {
+  .container-hero {
+    padding-left: 15rem;
+    /* width: 1100rem; */
+    color: #011234;
+  }
+
+  .btn.btn-project {
+    color: rgb(34, 82, 82);
+  }
+
+  .btn-project:link {
+    background-color: #fff;
+    color: #000;
+  }
+
+  .btn h1 span {
+    color: #011234;
+    color: #d3dcdc;
+  }
+}
+
+@media (max-width: 1020px) {
+  .inner-container {
+    width: 100%;
+    padding-right: 90px;
+  }
+}
+@media (max-width: 950px) {
+  .inner-container {
+    width: 70%;
+    padding-left: 7rem;
+    padding-right: 130px;
+  }
+
+  .button {
+    margin-left: 7rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .inner-container {
+    color: #000;
+    padding: 0 15rem;
+    font-size: 20px;
+  }
+
+  .inner-container p {
+    background-color: rgba(255, 255, 255, 0.575);
+    padding: 2rem 2rem;
+    border-radius: 5px;
+  }
+
+  .button {
+    font-size: 20px;
+    margin-left: 15rem;
+  }
+}
+
+@media (max-width: 630px) {
+  .inner-container {
+    /* width: 100%; */
+    padding: 0 25rem;
+    padding-right: 13rem;
+    font-size: 20px;
+  }
+
+  .inner-container h1 {
+    width: 100%;
+    background-color: rgba(40, 41, 44, 0.443);
+    color: #fff;
+    padding: 2rem 2rem;
+    font-size: 20px;
+  }
+
+  .inner-container h1 span {
+    padding: 0.2rem 1rem;
+    background-color: rgb(34, 82, 82);
+
+    color: #fff;
+  }
+
+  .btn-hire-project {
+    margin-left: 25rem;
+  }
+}
